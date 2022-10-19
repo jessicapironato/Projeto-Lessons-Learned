@@ -10,5 +10,12 @@ body {
     font-size: 20px;
     color: black;
 
+}
+
+#minha_foto{
+    border-radius: 500px;
+    width:500px;
+    top: 50px;
+    
 
 }
